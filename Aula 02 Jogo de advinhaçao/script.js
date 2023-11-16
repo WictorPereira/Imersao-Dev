@@ -15,7 +15,7 @@ if (chute == numeroSecreto) {
     alert(`Errou... O numero e maior que ${chute}. Tente novamente`)
     jogo()
 } else if (chute > numeroSecreto){
-    alert(`Errou... O numero e menor que ${chute}.. Tente novamente`)
+    alert(`Errou... O numero e menor que ${chute}. Tente novamente`)
     jogo()
 }
 
