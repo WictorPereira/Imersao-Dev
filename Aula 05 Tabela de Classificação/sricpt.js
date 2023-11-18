@@ -12,7 +12,7 @@ var wictor = {
     empate:0,
     derrota:0,
     pontos:0
-}
+} 
 
 var elementoTabela = document.getElementById('tabelaJogadores')
 function exibirNaTela(){
